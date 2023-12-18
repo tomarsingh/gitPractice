@@ -1,4 +1,4 @@
 # gitPractice
-This is to learn the git 
-First lecture of Practice of Git 
+This is to learn the git <br/>
+First lecture of Practice of Git <br/>
 Author Chetan Bhagat 
